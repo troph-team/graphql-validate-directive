@@ -1,11 +1,11 @@
 {
-  "name": "graphql-validate-directive",
+  "name": "@mewtant/graphql-validate-directive",
   "description": "A GraphQL directive for input validation",
   "version": "0.3.0",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "types/index.d.ts",
-  "repository": "https://github.com/cnwangjie/graphql-validate-directive.git",
+  "repository": "https://github.com/troph-team/graphql-validate-directive.git",
   "author": "Wang Jie <i@i8e.net>",
   "license": "MIT",
   "devDependencies": {
